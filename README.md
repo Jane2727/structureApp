@@ -2,6 +2,10 @@ Simple Structure App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## View
+
+http://Jane2727.github.io/structureApp
+
 ## Available Scripts
 
 In the project directory, you can run:
