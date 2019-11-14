@@ -1,0 +1,15 @@
+.buildings {
+  width: 50%;
+  border: 1px solid transparent;
+  box-shadow: 0 0 16px #000000;
+  border-top-left-radius: 16px;
+  border-bottom-left-radius: 16px;
+}
+
+.buildings>.list {
+  margin: 20px 10px 20px 15px;
+}
+
+.list .list-elems {
+  margin-left: 10px;
+}

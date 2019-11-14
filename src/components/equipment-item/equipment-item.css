@@ -1,0 +1,49 @@
+.equipment-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100px;
+  border: 1px solid transparent;
+  box-shadow: 0 0 4px #000000;
+  width: 200px;
+  border-radius: 4px;
+  margin: 10px;
+  background-color: #fcebe3;
+}
+
+.equipment-room {
+  font-size: 12px;
+  font-style: italic;
+  display: flex;
+  align-self: flex-start;
+  margin-left: 5px;
+}
+
+.equipment-name, .equipment-count {
+  text-align: center;
+  margin-bottom: 5px;
+  width: inherit;
+  word-wrap: break-word;
+}
+
+.equipment-count {
+  font-weight: bold;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  width: inherit;
+}
+
+.button {
+  width: 20px;
+  height: 20px;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.button:hover {
+  opacity: 0.5;
+}

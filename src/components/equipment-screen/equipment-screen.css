@@ -1,0 +1,35 @@
+.equipments {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: baseline;
+  min-height: 670px;
+  border-top-right-radius: 16px;
+  border-bottom-right-radius: 16px;
+  width: 50%;
+  border: 1px solid transparent;
+  box-shadow: 0 0 16px #000000;
+  min-width: 300px;
+}
+
+@media (max-width: 1080px) {
+  .equipments {
+    flex-direction: column;
+    align-content: center;
+    justify-content: stretch;
+  }
+}
+
+.plus {
+  cursor: pointer;
+  position: absolute;
+  top: 10px;
+  left: 15px;
+  font-size: 28px;
+  color: #624a3f;
+}
+
+.plus:hover {
+  opacity: 0.5;
+}
