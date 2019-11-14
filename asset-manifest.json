@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/structureApp/static/css/main.7c7472f6.chunk.css",
+    "main.js": "/structureApp/static/js/main.a4862ff0.chunk.js",
+    "main.js.map": "/structureApp/static/js/main.a4862ff0.chunk.js.map",
+    "runtime-main.js": "/structureApp/static/js/runtime-main.20331579.js",
+    "runtime-main.js.map": "/structureApp/static/js/runtime-main.20331579.js.map",
+    "static/css/2.0f017160.chunk.css": "/structureApp/static/css/2.0f017160.chunk.css",
+    "static/js/2.6cac2f56.chunk.js": "/structureApp/static/js/2.6cac2f56.chunk.js",
+    "static/js/2.6cac2f56.chunk.js.map": "/structureApp/static/js/2.6cac2f56.chunk.js.map",
+    "index.html": "/structureApp/index.html",
+    "precache-manifest.a330a245bb6099a3b89c02fe8de043d1.js": "/structureApp/precache-manifest.a330a245bb6099a3b89c02fe8de043d1.js",
+    "service-worker.js": "/structureApp/service-worker.js",
+    "static/css/2.0f017160.chunk.css.map": "/structureApp/static/css/2.0f017160.chunk.css.map",
+    "static/css/main.7c7472f6.chunk.css.map": "/structureApp/static/css/main.7c7472f6.chunk.css.map",
+    "static/media/all.css": "/structureApp/static/media/fa-solid-900.c2801fb4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20331579.js",
+    "static/css/2.0f017160.chunk.css",
+    "static/js/2.6cac2f56.chunk.js",
+    "static/css/main.7c7472f6.chunk.css",
+    "static/js/main.a4862ff0.chunk.js"
+  ]
+}
